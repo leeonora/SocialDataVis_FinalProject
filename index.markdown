@@ -25,8 +25,8 @@ date: May 12th, 2025
     background-color:rgb(161, 21, 21);
     padding: 0.2em;
     border-radius: 1em;
-    max-width: 250px;
-    min-width: 200px;
+    max-width: 400px;
+    min-width: 350px;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.15);
     flex-shrink: 0;
   ">
