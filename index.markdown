@@ -30,7 +30,7 @@ date: May 12th, 2025
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.15);
     flex-shrink: 0;
   ">
-    <img src="/assets/images/group.png" alt="Group 72" style="width: 100%; border-radius: 0.5em;">
+    <img src="images/group.png" alt="Group 72" style="width: 100%; border-radius: 0.5em;">
   </div>
 
 
