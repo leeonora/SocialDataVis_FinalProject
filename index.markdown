@@ -23,29 +23,16 @@ date: May 12th, 2025
   <!-- Group box -->
   <div style="
     background-color:rgb(161, 21, 21);
-    color: white;
-    padding: 2.5em 2.2em;
+    padding: 1em;
     border-radius: 1em;
     max-width: 250px;
     min-width: 200px;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.15);
-    font-size: 1rem;
-    line-height: 1.6;
     flex-shrink: 0;
   ">
-    <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 0.5em;">Group 72</p>
-
-    <ul style="list-style-type: disc; padding-left: 1.2em; margin-bottom: 1em;">
-      <li>s193602</li>
-      <li>s203520</li>
-      <li>s203581</li>
-    </ul>
-
-    <p>
-      <em>Social data analysis and visualization</em><br/>
-      March 31, 2025
-    </p>
+    <img src="/assets/images/group.png" alt="Group 72" style="width: 100%; border-radius: 0.5em;">
   </div>
+
 
   <!-- Introduction text -->
   <div style="flex: 1; min-width: 250px;">
