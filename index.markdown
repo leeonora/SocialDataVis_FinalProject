@@ -23,7 +23,7 @@ date: May 12th, 2025
   <!-- Group box -->
   <div style="
     background-color:rgb(161, 21, 21);
-    padding: 1em;
+    padding: 0.2em;
     border-radius: 1em;
     max-width: 250px;
     min-width: 200px;
@@ -48,57 +48,30 @@ date: May 12th, 2025
   </div>
 </div>
 
-
-<div style="display: flex; gap: 2em; justify-content: center; flex-wrap: wrap; margin-bottom: 2em;">
-
-  <!-- Table 1 -->
-  <div style="flex: 1; min-width: 250px;">
-    <figure style="margin: 0;">
-      <table>
-        <thead>
-          <tr>
-            <th>Column</th>
-            <th>Description</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr><td>Category</td><td>Type of crime (e.g., assault, burglary, theft)</td></tr>
-          <tr><td>Date</td><td>Date when the incident occurred</td></tr>
-          <tr><td>Time</td><td>Time when the incident occurred</td></tr>
-          <tr><td>PdDistrict</td><td>Police district responsible for the location</td></tr>
-          <tr><td>X</td><td>Longitude of the crime location</td></tr>
-          <tr><td>Y</td><td>Latitude of the crime location</td></tr>
-          <tr><td>Descript</td><td>Short text description of the incident</td></tr>
-        </tbody>
-      </table>
-      <figcaption style="text-align: center; font-size: 0.95rem; color: #777; margin-bottom: 0.5em;">
-        Table 1. Column descriptions from San Francisco’s open data portal dataset.
-      </figcaption>
-    </figure>
-  </div>
-
-  <!-- Table 2 -->
-  <div style="flex: 1; min-width: 250px;">
-    <figure style="margin: 0;">
-      <table>
-        <thead>
-          <tr>
-            <th>Column</th>
-            <th>Description</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr><td>specimen_collection_date</td><td>Date that test was collected</td></tr>
-          <tr><td>tests</td><td>Total tests collected on the specified date</td></tr>
-        </tbody>
-      </table>
-      <figcaption style="text-align: center; font-size: 0.95rem; color: #777; margin-bottom: 0.5em;">
-        Table 2. Column descriptions from DataSF Health and Social Data dataset.
-      </figcaption>
-    </figure>
-  </div>
-
-</div>
+<figure style="margin: 0;">
+  <table>
+    <thead>
+      <tr>
+        <th>Column</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>tconst</td><td>Unique identifier for the title (from IMDb)</td></tr>
+      <tr><td>primaryTitle</td><td>The main title used for the movie/show</td></tr>
+      <tr><td>originalTitle</td><td>The original title before translation/localization</td></tr>
+      <tr><td>year</td><td>Year of release</td></tr>
+      <tr><td>runtimeMinutes</td><td>Duration of the title in minutes</td></tr>
+      <tr><td>genres</td><td>Genres assigned to the title (e.g., Comedy, Drama)</td></tr>
+      <tr><td>rating</td><td>Average user rating</td></tr>
+      <tr><td>votes</td><td>Total number of user votes</td></tr>
+      <tr><td>country</td><td>Country of origin</td></tr>
+    </tbody>
+  </table>
+  <figcaption style="text-align: center; font-size: 0.95rem; color: #777; margin-bottom: 0.5em;">
+    Table 1. Column descriptions from the IMDb-based movie dataset.
+  </figcaption>
+</figure>
 
 
 These columns provide all the necessary data for our analysis. 
