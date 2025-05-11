@@ -49,7 +49,7 @@ Title: Back To The Future
 
 <figure style="max-width: 100%; text-align: center; margin: 1em auto;">
   <iframe 
-    src="/plots/interactive_genre_map.html"
+    src="{{ '/plots/interactive_genre_map.html' | relative_url }}"
     style="width: 160%; height: 800px; border: none;"
     title="InteractiveGenreMap"
   ></iframe>
