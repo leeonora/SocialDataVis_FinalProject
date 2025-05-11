@@ -36,7 +36,7 @@ Title: Back To The Future
 
 <figure style="max-width: 100%; text-align: center; margin: 1em auto;">
   <iframe 
-    src="/plots/interactive_movie_genre_distribution.html"
+    src="{{ '/plots/interactive_movie_genre_distribution.html' | relative_url }}"
     style="width: 150%; height: 700px; border: none;"
     title="InteractiveDistribution"
   ></iframe>
@@ -62,7 +62,7 @@ Title: Back To The Future
 
 <figure style="max-width: 120%; text-align: center; margin: 1em auto;">
   <iframe 
-    src="/plots/weekly_movie_releases_combined_stacked.html"
+    src="{{ '/plots/weekly_movie_releases_combined_stacked.html' | relative_url }}"
     style="width: 110%; height: 800px; border: none;"
     title="WeeklyCombined"
   ></iframe>
