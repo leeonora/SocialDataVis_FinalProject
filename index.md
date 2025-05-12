@@ -1,13 +1,14 @@
 ---
 layout: page
-title: "Once Upon a Time in Hollywood: Movie Genres Through Time"
+title: "Once Upon a Time in Hollywood"
 subtitle: "A final project for 02806 Social Data Analysis and Visualization"
 ---
+<p class="subtitle">Movie Genres Through Time</p>
+
+
 
 ---
-
-<div style="display: flex; align-items: center; gap: 2rem; margin-top: 2rem;">
-
+<div style="display: flex; align-items: center; gap: 2rem; margin-top: 0.1rem;">
   <!-- Text block -->
   <div style="flex: 1;">
     <h2>Introduction</h2>
