@@ -1,10 +1,10 @@
 ---
 layout: page
-Title: Back To The Future
+title: "Back To The Future: Movie Genres Over Time"
+subtitle: "A final project for 02806 Social Data Analysis and Visualization"
 ---
-<h1> Back To The Future: Movie Genres Through Time </h1> 
-<h2> A final project for 02806 Social Data Analysis and Visualization </h2> 
 
+---
 <h2> Introduction </h2> 
 
 Film has existed as a medium for well over a century, and throughout this time it has served as a reflection of societal trends, opinions and outlooks. From the golden age of Hollywood to the rise of elevated horror, movie genres and their popularity offer a window into which stories we have chosen to tell, and when. In this project, we explore the rise, change and popularities of film genres across the time and geography, as told by the comprehensive IMDb database. We hope to uncover interesting trends related to major world events (were apocalyptic sci-fi films more popular during the COVID-19 lockdown?) or changes in trends and preferences (were comedies more popular after the release of hit TV show Friends?), and thereby create a birds-eye view of how genres shift throughout the decades.  
@@ -66,14 +66,18 @@ On the genre level, Drama and Comedy consistently dominate the landscape, though
 
 <h2> An overview of film production around the world </h2> 
 
-<figure style="max-width: 160%; text-align: center; margin: 1em auto;">
-  <iframe 
-    src="{{ '/plots/interactive_genre_map.html' | relative_url }}"
-    style="width: 160%; height: 800px; border: none;"
-    title="InteractiveGenreMap"
-  ></iframe>
+<figure style="text-align: center; margin: 2em 0;">
+  <div style="width: 120%; max-width: 120%; overflow: hidden;">
+    <div style="transform: scale(0.78); transform-origin: top left; width: 125%; height: 585px;">
+      <iframe 
+        src="{{ '/plots/interactive_genre_map.html' | relative_url }}"
+        style="width: 120%; height: 750px; border: none;"
+        title="InteractiveDistribution"
+      ></iframe>
+    </div>
+  </div>
   <figcaption style="font-size: 0.95rem; color: #777; margin-top: 0.5em;">
-    Figure 2. Ineractive map of genres throughout the world. Interact by choosing a genre in the top bar and seeing it's strength in each country. 
+    Figure 2. Interactive map of genres throughout the world. Interact by choosing a genre in the top bar and seeing it's strength in each country. 
   </figcaption>
 </figure>
 
