@@ -3,6 +3,15 @@
 <link rel="icon" type="image/png" href="{{ '/_site/assets/img/logo.png' | relative_url }}">
 <link rel="shortcut icon" href="{{ '/_site/assets/img/logo.png' | relative_url }}">
 <link rel="apple-touch-icon" href="{{ '/_site/assets/img/logo.png' | relative_url }}">
+<link rel="icon" type="image/png" href="/logo.png">
+<link rel="shortcut icon" href="/logo.png">
+<script>
+  window.addEventListener("load", function() {
+    document.querySelectorAll("link[rel='icon'], link[rel='shortcut icon']").forEach(el => {
+      if (!el.href.includes("logo.png")) el.remove();
+    });
+  });
+</script>
 
 <script type="module">
   const loadJS = x => new Promise(r => window.loadJS(x).addEventListener('load', r));
@@ -76,7 +85,7 @@
     const link = document.createElement("link");
     link.rel = "icon";
     link.type = "image/png";
-    link.href = "logo.png";
+    link.href = "/logo.png";
 
     // Remove all existing favicons
     document.querySelectorAll("link[rel='icon'], link[rel='shortcut icon']").forEach(el => el.remove());
