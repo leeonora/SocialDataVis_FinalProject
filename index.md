@@ -42,16 +42,21 @@ This project specifically focuses on exploring how film genres have evolved over
 
 <h2> An overview of film genre throughout time </h2> 
 
-<figure style="max-width: 100%; text-align: center; margin: 1em auto;">
-  <iframe 
-    src="{{ '/plots/interactive_movie_genre_distribution.html' | relative_url }}"
-    style="width: 150%; height: 700px; border: none;"
-    title="InteractiveDistribution"
-  ></iframe>
+<figure style="text-align: center; margin: 2em 0;">
+  <div style="width: 100%; max-width: 100%; overflow: hidden;">
+    <div style="transform: scale(0.7); transform-origin: top left; width: 125%; height: 510px;">
+      <iframe 
+        src="{{ '/plots/interactive_movie_genre_distribution.html' | relative_url }}"
+        style="width: 1900px; height: 700px; border: none;"
+        title="InteractiveDistribution"
+      ></iframe>
+    </div>
+  </div>
   <figcaption style="font-size: 0.95rem; color: #777; margin-top: 0.5em;">
     Figure 1. Interactive plot of total movies produced (top) and genre distribution (bottom) from 1930 to 2023.
   </figcaption>
 </figure>
+
 
 The visualization above presents a dual view of the film industry’s evolution: the total number of movies produced each year (top, in grey bars), and the proportional distribution of ten major genres (bottom, as a stacked area chart).
 
@@ -59,9 +64,9 @@ We observe a steady increase in overall movie production beginning in the 1980s,
 
 On the genre level, Drama and Comedy consistently dominate the landscape, though their relative shares fluctuate across decades. Notably, genres like Documentary and Horror have gained prominence in recent years, while others — such as Adventure and Mystery — maintain a relatively modest but stable presence. The chart reveals shifting audience preferences, emerging narrative trends, and the diversification of genre blends over time.
 
-<h2> An overview of film genre throughout time </h2> 
+<h2> An overview of film production around the world </h2> 
 
-<figure style="max-width: 100%; text-align: center; margin: 1em auto;">
+<figure style="max-width: 160%; text-align: center; margin: 1em auto;">
   <iframe 
     src="{{ '/plots/interactive_genre_map.html' | relative_url }}"
     style="width: 160%; height: 800px; border: none;"
@@ -74,7 +79,7 @@ On the genre level, Drama and Comedy consistently dominate the landscape, though
 
 <h2> Weekly movie releases </h2> 
 
-<figure style="max-width: 120%; text-align: center; margin: 1em auto;">
+<figure style="max-width: 110%; text-align: center; margin: 1em auto;">
   <iframe 
     src="{{ '/plots/weekly_movie_releases_combined_stacked.html' | relative_url }}"
     style="width: 110%; height: 800px; border: none;"
