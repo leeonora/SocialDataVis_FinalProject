@@ -1,15 +1,30 @@
 ---
 layout: page
-title: "Once Upon a Time in Hollywood: Movie Genres Through Time"
+title: "Once Upon a Time in Hollywood"
 subtitle: "A final project for 02806 Social Data Analysis and Visualization"
 ---
+<p class="subtitle">Movie Genres Through Time</p>
+
+
 
 ---
-## Introduction
+<div style="display: flex; align-items: center; gap: 2rem; margin-top: 0.1rem;">
+  <!-- Text block -->
+  <div style="flex: 1;">
+    <h2>Introduction</h2>
+    <p>
+      Film has existed as a medium for well over a century. From black-and-white silent films to today’s global blockbusters, one thing remains: we keep watching. 
 
-Film has existed as a medium for well over a century. From black-and-white silent films to today’s global blockbusters, one thing remains: we keep watching. 
+      We all have our favorites, but there might be hidden patterns we’re not aware of. Maybe you’re watching more action films than you think. Or perhaps there’s a genre that connects viewers across the world.
+    </p>
+  </div>
 
-We all have our favorites, but there might be hidden patterns we’re not aware of. Maybe you’re watching more action films than you think. Or perhaps there’s a genre that connects viewers across the world.
+  <!-- Image block -->
+  <div style="flex: 1; max-width: 300px;">
+    <img src="{{ '/assets/img/imdb.png' | relative_url }}" alt="IMDb logo" style="width: 100%; border-radius: 8px;">
+  </div>
+
+</div>
 
 This article explores how movie genres have evolved over the last hundred years. Are some genres timeless, or do they come and go with the decades? How do major world events affect movie preferences? And do certain regions favor specific types of films? 
 By looking at these patterns, we will see how film not only entertains but also reflects the cultural shifts, societal values, and global events that shape our world.
