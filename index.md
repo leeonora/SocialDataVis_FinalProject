@@ -43,11 +43,11 @@ This project specifically focuses on exploring how film genres have evolved over
 <h2> An overview of film genre throughout time </h2> 
 
 <figure style="text-align: center; margin: 2em 0;">
-  <div style="width: 100%; max-width: 100%; overflow: hidden;">
-    <div style="transform: scale(0.7); transform-origin: top left; width: 125%; height: 510px;">
+  <div style="width: 120%; max-width: 120%; overflow: hidden;">
+    <div style="transform: scale(0.8); transform-origin: top left; width: 125%; height: 560px;">
       <iframe 
         src="{{ '/plots/interactive_movie_genre_distribution.html' | relative_url }}"
-        style="width: 1900px; height: 700px; border: none;"
+        style="width: 120%; height: 700px; border: none;"
         title="InteractiveDistribution"
       ></iframe>
     </div>
