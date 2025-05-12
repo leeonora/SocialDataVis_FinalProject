@@ -18,7 +18,7 @@ By looking at these patterns, we will see how film not only entertains but also 
 <h3> The dataset </h3> 
 
 
-The dataset used in this article is derived from the Internet Movie Database (IMDb), a publicly available collection of metadata about movies (and other visual media). It includes structured information such as movie titles, release years, runtime, genre classifications, and user ratings. The data is updated daily by IMDb and provides a comprehensive foundation for analyzing trends and patterns in the global film industry.
+The dataset used in this article is derived from the **Internet Movie Database (IMDb)**, a publicly available collection of metadata about movies (and other visual media). It includes structured information such as movie titles, release years, runtime, genre classifications, and user ratings. The data is updated daily by IMDb and provides a comprehensive foundation for analyzing trends and patterns in the global film industry.
 
 ## Focusing the Lens  (10 focus genres)
 
