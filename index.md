@@ -5,7 +5,7 @@ subtitle: "A final project for 02806 Social Data Analysis and Visualization"
 ---
 
 ---
-<h2> Introduction </h2> 
+## Introduction
 
 Film has existed as a medium for well over a century, and throughout this time it has served as a reflection of societal trends, opinions and outlooks. From the golden age of Hollywood to the rise of elevated horror, movie genres and their popularity offer a window into which stories we have chosen to tell, and when. In this project, we explore the rise, change and popularities of film genres across the time and geography, as told by the comprehensive IMDb database. We hope to uncover interesting trends related to major world events (were apocalyptic sci-fi films more popular during the COVID-19 lockdown?) or changes in trends and preferences (were comedies more popular after the release of hit TV show Friends?), and thereby create a birds-eye view of how genres shift throughout the decades.  
 
@@ -42,7 +42,7 @@ This project specifically focuses on exploring how film genres have evolved over
 
 <h2> An overview of film genre throughout time </h2> 
 
-<figure style="text-align: center; margin: 2em 0;">
+<figure style="text-align: left; margin: 2em 0;">
   <div style="width: 120%; max-width: 120%; overflow: hidden;">
     <div style="transform: scale(0.8); transform-origin: top left; width: 125%; height: 560px;">
       <iframe 
@@ -66,7 +66,7 @@ On the genre level, Drama and Comedy consistently dominate the landscape, though
 
 <h2> An overview of film production around the world </h2> 
 
-<figure style="text-align: center; margin: 2em 0;">
+<figure style="text-align: left; margin: 2em 0;">
   <div style="width: 120%; max-width: 120%; overflow: hidden;">
     <div style="transform: scale(0.78); transform-origin: top left; width: 125%; height: 585px;">
       <iframe 
@@ -83,7 +83,7 @@ On the genre level, Drama and Comedy consistently dominate the landscape, though
 
 <h2> Weekly movie releases </h2> 
 
-<figure style="max-width: 110%; text-align: center; margin: 1em auto;">
+<figure style="max-width: 110%; text-align: left; margin: 1em auto;">
   <iframe 
     src="{{ '/plots/weekly_movie_releases_combined_stacked.html' | relative_url }}"
     style="width: 110%; height: 800px; border: none;"
