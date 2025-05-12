@@ -49,9 +49,15 @@ This project specifically focuses on exploring how film genres have evolved over
     title="InteractiveDistribution"
   ></iframe>
   <figcaption style="font-size: 0.95rem; color: #777; margin-top: 0.5em;">
-    Figure 1. Plot
+    Figure 1. Interactive plot of total movies produced (top) and genre distribution (bottom) from 1930 to 2023.
   </figcaption>
 </figure>
+
+The visualization above presents a dual view of the film industry’s evolution: the total number of movies produced each year (top, in grey bars), and the proportional distribution of ten major genres (bottom, as a stacked area chart).
+
+We observe a steady increase in overall movie production beginning in the 1980s, with a dramatic rise in the 2000s and a peak just before 2020, likely followed by a slight drop due to the COVID-19 pandemic. This upward trend reflects both the global expansion of the film industry and the growing accessibility of filmmaking technology.
+
+On the genre level, Drama and Comedy consistently dominate the landscape, though their relative shares fluctuate across decades. Notably, genres like Documentary and Horror have gained prominence in recent years, while others — such as Adventure and Mystery — maintain a relatively modest but stable presence. The chart reveals shifting audience preferences, emerging narrative trends, and the diversification of genre blends over time.
 
 <h2> An overview of film genre throughout time </h2> 
 
@@ -62,7 +68,7 @@ This project specifically focuses on exploring how film genres have evolved over
     title="InteractiveGenreMap"
   ></iframe>
   <figcaption style="font-size: 0.95rem; color: #777; margin-top: 0.5em;">
-    Figure 1. Plot
+    Figure 2. Ineractive map of genres throughout the world. Interact by choosing a genre in the top bar and seeing it's strength in each country. 
   </figcaption>
 </figure>
 
@@ -75,7 +81,7 @@ This project specifically focuses on exploring how film genres have evolved over
     title="WeeklyCombined"
   ></iframe>
   <figcaption style="font-size: 0.95rem; color: #777; margin-top: 0.5em;">
-    Figure 1. Plot
+    Figure 3. Stacked genre plot throughout the year. Choose a genre in the drop down list in the top left, and viewing its release distribution through an average year. 
   </figcaption>
 </figure>
 
