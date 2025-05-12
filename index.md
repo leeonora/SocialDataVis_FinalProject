@@ -7,7 +7,7 @@ Title: Back To The Future
 
 <h2> Introduction </h2> 
 
-Film has existed as a medium for well over a century. and throughout this time it has served as a reflection of society. From the golden age of Hollywood to the rise of elevated horror, movie genres and their popularity offer a window into which stories we have chosen to tell, and when. In this project, we explore the rise, change and popularities of film genres across the time and geography, as told by the comprehensive IMDb database. We hope to uncover interesting trends related to major world events (were apocalyptic sci-fi films more popular during the COVID-19 lockdown?) or changes in trends and preferences (were comedies more popular after the release of hit TV show Friends?), and thereby create a birds-eye view of how genres shift throughout the decades.  
+Film has existed as a medium for well over a century, and throughout this time it has served as a reflection of societal trends, opinions and outlooks. From the golden age of Hollywood to the rise of elevated horror, movie genres and their popularity offer a window into which stories we have chosen to tell, and when. In this project, we explore the rise, change and popularities of film genres across the time and geography, as told by the comprehensive IMDb database. We hope to uncover interesting trends related to major world events (were apocalyptic sci-fi films more popular during the COVID-19 lockdown?) or changes in trends and preferences (were comedies more popular after the release of hit TV show Friends?), and thereby create a birds-eye view of how genres shift throughout the decades.  
 
 <h3> The dataset </h3> 
 
