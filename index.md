@@ -141,7 +141,7 @@ On a weekly basis, weeks 36 and 40 show the highest average number of releases. 
 
 <h1> Explainer Notebook </h1>
 
-[Click to view the explainer notebook](https://nbviewer.org/github/fvhreimert/social_data_final_project/blob/main/explainer_notebook.ipynb)
+[Click to view the explainer notebook](https://nbviewer.org/github/leeonora/SocialDataVis_FinalProject/blob/main/explainer_notebook.ipynb)
 
 
 ---
