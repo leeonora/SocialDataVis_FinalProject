@@ -70,7 +70,7 @@ The distribution of movie genres has changed over the last hundred years. In the
 
 The rise in documentaries since the 1990s can perhaps be linked to the availability of cheaper and smaller video cameras. Hand-held cameras and DSLRs may have lowered the barriers of film-making: lower costs opening up the genre to non-professionals. In addition, documentaries offer the flexibility to cover a wide range of topics and personal experiences in many different settings [4][5].
 
-The rise in genres like horror and thriller since the 1970s may be linked to broader historical and psychological factors. Some researchers propose that these genres become more popular during uncertain times, such as wars, political instability, or global crises like climate change. Stressful events might affect how people think, leading audiences to seek out stories that deal with fear, tension, and the unknown. This idea may help explain the increase in horror and thriller films during the Cold War and again today, in response to the pandemic and climate concerns [5].
+The rise in genres like horror and thriller since the 1970s may be linked to broader historical and psychological factors. Some researchers propose that these genres become more popular during uncertain times, such as wars, political instability, or global crises like climate change. Stressful events might affect how people think, leading audiences to seek out stories that deal with fear, tension, and the unknown. This idea may help explain the increase in horror and thriller films during the Cold War and again today, in response to the pandemic and climate concerns [6].
 
 While we've seen how different genres have evolved over time, another key question arises: how do these genres differ in terms of viewer reception and production style? To explore this, we examine the average IMDb rating and runtime across genres (Figure 2).
 
@@ -144,7 +144,7 @@ Figure 4 shows how film releases from 1980 to the present day are distributed th
   </figcaption>
 </figure>
 
-The yearly release pattern reveals a pronounced peak in film releases during the fall months. As summer fades, audiences are more likely to return to the cinemas, no longer distracted by outdoor activities. October stands out as a particularly busy month for horror, crime and thiller releases, while romance films hit their peak in September -- surprisingly not around Valentine's Day, but rather at the start of "cuffing season", during which the general population tends to look for a partner to spend the colder months with [12].
+The yearly release pattern reveals a pronounced peak in film releases during the fall months. As summer fades, audiences are more likely to return to the cinemas, no longer distracted by outdoor activities. October stands out as a particularly busy month for horror, crime and thiller releases, while romance films hit their peak in September. Surprisingly not around Valentine's Day, but rather at the start of "cuffing season", during which the general population tends to look for a partner to spend the colder months watching movies with [12].
 
 In contrast, the winter months January and February see the lowest release numbers, reinforcing their reputation as "Dump Months", a term referring to a time when studios traditionally avoid releasing their major blockbusters. Several factors contribute to this pattern, including competition from other forms of entertainment (e.g., the Super Bowl), eligibility rules for the Academy Awards, and the economic strain on households after the holiday spending spree [10].
 
@@ -185,9 +185,9 @@ https://www.researchgate.net/publication/331320440_The_DSLR_Revolution_and_its_I
 
 [6] https://www.psychologytoday.com/us/blog/the-asylum/202308/war-and-the-horror-genre
 
-[7]https://filminiceland.com/incentives-to-film-in-iceland/?utm_source=chatgpt.com
+[7]https://filminiceland.com/incentives-to-film-in-iceland/
 
-[8]https://www.icelandicfilmcentre.is/about/icelandic-film-industry-at-a-glance?utm_source=chatgpt.com
+[8]https://www.icelandicfilmcentre.is/about/icelandic-film-industry-at-a-glance
 
 [9]https://www.kongchak.com/from-angkor-wat-to-aps-haunts-a-khmer-horror-film-odyssey/
 
