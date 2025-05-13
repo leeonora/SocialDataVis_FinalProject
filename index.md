@@ -127,7 +127,7 @@ The overview also helps to debunk some common assumptions. For instance, you mig
 
 <h2> The Four Seasons: Release Trends During A Year</h2> 
 
-Figure 4 shows how film releases from 1980 to the present day are distributed throughout the calendar year. The plot is interactive, and can be filtered by genre. It is also possible to aggregate by weekly, monthly or daily release patterns, using the buttons at the bottom center. 
+Figure 4 shows how film releases from 1980 to the present day are distributed throughout the calendar year. The plot is interactive, and can be filtered by genre. It is also possible to aggregate by weekly, monthly or daily release patterns, using the buttons at the bottom center. Beware that when aggregating by day, an abundance of movie release dates default to the first of the month due to the nature of the dataset (this does not necessarily reflect true release dates). 
 
 <figure style="text-align: left; margin: 2em 0;">
   <div style="width: 120%; max-width: 120%; overflow: hidden;">
